@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='C-2009.09 32-BIT'
+.TITLE '.param'
+ pwr_latch1       tpdr             tpdf             tpd_latch1        
+ temper           alter#            
+ -1.236e-07        3.029e-11        2.784e-11        2.907e-11        
+   25.0000           4.0000         
